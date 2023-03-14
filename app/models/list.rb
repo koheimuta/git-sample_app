@@ -1,3 +1,3 @@
 class List < ApplicationRecord
-  has_one_attached :iamge
+  has_one_attached :image
 end
